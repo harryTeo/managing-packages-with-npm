@@ -1,0 +1,11 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "description": "Learning how to use the NPM package JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Harry Teo",
+  "license": "ISC"
+}
